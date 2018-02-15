@@ -18,3 +18,23 @@ header li {
 header li:last-child {
   margin: 0;
 }
+
+div {
+  margin: 100px;
+  padding: 20px;
+}
+
+#project-section {
+  height: 300px;
+  background-color: blue;
+}
+
+#resume-section {
+  height: 300px;
+  background-color: red;
+}
+
+#about-section {
+  height: 300px;
+  background-color: green;
+}
