@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  margin: 0 50px;
+}
+
+header ul {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+header li {
+  margin: 0 10px;
+}
+
+header li:last-child {
+  margin: 0;
+}
